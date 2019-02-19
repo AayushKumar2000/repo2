@@ -11,11 +11,18 @@ int main(){
 	cout<<endl<<"4 for multiply";
 	cin<<c;
 	
-	switch(c)
-    case 1:
+	switch(c){
+	    case 1:
     	n=a+b;
     case 2:
     	n=a-b;
-		
+    case 3:
+    	n=a/b;
+    case 4:
+    	n=a*b;
+    default:
+    	cout<<"wrong choice";
+    	
+}
 	
 }
