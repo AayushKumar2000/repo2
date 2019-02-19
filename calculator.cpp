@@ -24,5 +24,7 @@ int main(){
     	cout<<"wrong choice";
     	
 }
+
+cout<<endl<<"output:"<<n;
 	
 }
