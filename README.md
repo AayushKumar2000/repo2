@@ -11,7 +11,7 @@ Do not try to push to the `Master Branch`.
 
 
 ## colaborator
-Aajay Kumar Tyagi.
-Arjun Rekhi.
+1. Aajay Kumar Tyagi.
+1. Arjun Rekhi.
 
 
