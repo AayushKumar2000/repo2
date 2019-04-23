@@ -10,9 +10,8 @@ Anyone interested  and with slight knowledge of `c++` can collaborate in this pr
 Do not try to push to the `Master Branch`.
 
 
-### colaborator
-
- Aajay Kumar Tyagi.
- Arjun Rekhi.
+## colaborator
+Aajay Kumar Tyagi.
+Arjun Rekhi.
 
 
